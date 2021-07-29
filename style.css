@@ -1,0 +1,44 @@
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#44F9E8 0%, #F9D444 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#myhobby {
+    font-family: 'Indie Flower', cursive;
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
